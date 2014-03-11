@@ -26,3 +26,5 @@ To start:
 
 By default VisualStudio will launch the currently active project. You can change this behavior by setting an explicit startup project in the solution's preferences.
 
+You can find the MembershipProvider's API here: http://msdn.microsoft.com/en-us/library/System.Web.Security.MembershipProvider%28v=vs.110%29.aspx
+
