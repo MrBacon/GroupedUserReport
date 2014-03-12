@@ -10,7 +10,7 @@ Groups user accounts by client.
 
         C:\Windows\Microsoft.Net\Framework\v2.0.50727\aspnet_regsql -S <SqlServerName> -U <DBOwnerAccount> -P <DBOwnerAccountPassword> -A all -d Members
 
-3. To get the code you can download this repository as a ZIP file or clone it using git:
+3. To get the code you can Fork this repository into your own github account, download it as a ZIP file, or clone it using git:
 
         git clone https://github.com/IntertrustGroup/GroupedUserReport.git
 
